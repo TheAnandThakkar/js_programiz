@@ -1,6 +1,4 @@
-# js_programiz
-All the javascript problems given in programiz
-
+# Hello from Anand Thakkar 👋🏻
 
 # JavaScript Fundamentals - Programiz Examples
 
